@@ -1,13 +1,6 @@
 # AI-Enabled-Battery-Swapping-Hub-Using-ESP32
 A smart AI-enabled battery swapping hub for electric vehicles using  ESP32, featuring NFC authentication, Firebase cloud sync, servo-based ejection, and ML-based battery health prediction.
 
-# 🔋 AI-Enabled STM32-Based Smart Battery Swapping Hub for Electric Vehicles
-
-
-A next-generation *AI-enabled smart battery swapping system* designed for *electric vehicles (EVs), powered by **STM32, **ESP32, and **Firebase Cloud*.  
-It automates the process of *battery monitoring, authentication, and swapping, while using **Machine Learning* for *battery health prediction* and *IoT* for *real-time cloud monitoring*.
-
----
 
 ## 🧠 Overview
 
